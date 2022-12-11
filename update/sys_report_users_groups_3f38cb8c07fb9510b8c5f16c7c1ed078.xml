@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Pie on Table table by label created by Karol Svaral: 2022-12-11 17:21:43">b738cb8c07fb9510b8c5f16c7c1ed078</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>karol.svaral</sys_created_by>
+        <sys_created_on>2022-12-11 16:24:34</sys_created_on>
+        <sys_id>3f38cb8c07fb9510b8c5f16c7c1ed078</sys_id>
+        <sys_name>b738cb8c07fb9510b8c5f16c7c1ed078</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_3f38cb8c07fb9510b8c5f16c7c1ed078</sys_update_name>
+        <user_id display_value="Karol Svaral">236a342707721110b8c5f16c7c1ed0ac</user_id>
+    </sys_report_users_groups>
+</record_update>
